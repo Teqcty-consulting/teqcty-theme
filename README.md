@@ -4,4 +4,4 @@ Frappe 15 Theme App
 
 #### License
 
-mit
+mit# teqcty-theme
